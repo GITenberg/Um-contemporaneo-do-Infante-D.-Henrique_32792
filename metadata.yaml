@@ -1,0 +1,30 @@
+_repo: Um-contemporaneo-do-Infante-D.-Henrique_32792
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pimentel, Alberto
+    alias: Pimentel, Alberto Augusto de Almeida
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '25371'
+    url: http://www.gutenberg.org/2009/agents/25371
+    wikipedia: http://pt.wikipedia.org/wiki/Alberto_Pimentel
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32792'
+  lccn: '35020740'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abranches, Alvaro Vaz de Almada, conde de, -1449'
+- !lcc 'DP'
+title: Um contemporaneo do Infante D. Henrique
+url: http://www.gutenberg.org/ebooks/32792
